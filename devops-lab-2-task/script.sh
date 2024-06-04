@@ -12,3 +12,8 @@ touch fol_1/1_3.txt
 touch fol_2/2_1.txt
 touch fol_2/2_2.txt
 touch fol_2/2_3.txt
+#Update permissions for _1 and _3
+chmod 600 fol_1/1_1.txt
+chmod 600 fol_1/1_3.txt
+chmod 600 fol_2/2_1.txt
+chmod 600 fol_2/2_3.txt
